@@ -23,8 +23,8 @@ RUN yarn install
 COPY . .
 
 # Expose dynamic ports for frontend and backend
-EXPOSE 3000 4000
+EXPOSE 4000
 
 # Start the application
-CMD ["yarn", "start"]
+CMD ["yarn", "start-api"]
 
