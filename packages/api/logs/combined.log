@@ -198,3 +198,5 @@
 2025-04-13T05:29:29.002Z [api] info: Recommendations API request started 
 2025-04-13T05:29:42.519Z [api] info: Regions emissions factors API request started 
 2025-04-13T05:34:53.194Z [Server] info: Cloud Carbon Footprint Server shutting down... 
+2025-04-13T05:47:46.072Z [Server] info: Cloud Carbon Footprint Server listening at http://localhost:4000 
+2025-04-13T05:47:46.080Z [server] info: Documentation available at http://localhost:4000/docs 
