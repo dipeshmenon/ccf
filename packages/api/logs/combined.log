@@ -60,3 +60,141 @@
 2025-04-07T08:57:30.910Z [App] info: Finished GCP Estimations 
 2025-04-07T08:57:31.309Z [api] info: Regions emissions factors API request started 
 2025-04-07T08:57:37.985Z [api] info: Recommendations API request started 
+2025-04-12T18:49:16.040Z [Server] info: Cloud Carbon Footprint Server listening at http://localhost:4000 
+2025-04-12T18:49:16.044Z [server] info: Documentation available at http://localhost:4000/docs 
+2025-04-12T18:49:23.008Z [api] info: Footprint API request started 
+2025-04-12T18:49:23.012Z [Cache] info: Using local cache file... 
+2025-04-12T18:49:23.154Z [App] info: Starting AWS Estimations 
+2025-04-12T18:49:23.154Z [App] info: Finished AWS Estimations 
+2025-04-12T18:49:23.154Z [App] info: Starting GCP Estimations 
+2025-04-12T18:49:25.004Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-12T18:49:25.437Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-12T18:49:25.525Z [App] info: Finished GCP Estimations 
+2025-04-12T18:49:25.531Z [Cache] info: Setting new estimates to cache... 
+2025-04-12T18:49:25.705Z [api] info: Footprint API request started 
+2025-04-12T18:49:25.706Z [Cache] info: Using local cache file... 
+2025-04-12T18:49:26.325Z [api] info: Regions emissions factors API request started 
+2025-04-12T18:53:15.141Z [Server] info: Cloud Carbon Footprint Server shutting down... 
+2025-04-13T05:13:29.058Z [Server] info: Cloud Carbon Footprint Server listening at http://localhost:4000 
+2025-04-13T05:13:29.066Z [server] info: Documentation available at http://localhost:4000/docs 
+2025-04-13T05:13:30.741Z [api] info: Footprint API request started 
+2025-04-13T05:13:30.746Z [Cache] info: Using local cache file... 
+2025-04-13T05:13:30.925Z [App] info: Starting AWS Estimations 
+2025-04-13T05:13:30.925Z [App] info: Finished AWS Estimations 
+2025-04-13T05:13:30.926Z [App] info: Starting GCP Estimations 
+2025-04-13T05:13:32.947Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:13:33.372Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:13:33.373Z [App] info: Finished GCP Estimations 
+2025-04-13T05:13:33.575Z [api] info: Footprint API request started 
+2025-04-13T05:13:33.576Z [Cache] info: Using local cache file... 
+2025-04-13T05:13:33.701Z [App] info: Starting AWS Estimations 
+2025-04-13T05:13:33.702Z [App] info: Finished AWS Estimations 
+2025-04-13T05:13:33.702Z [App] info: Starting GCP Estimations 
+2025-04-13T05:13:34.457Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:13:34.851Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:13:34.851Z [App] info: Finished GCP Estimations 
+2025-04-13T05:13:35.484Z [api] info: Regions emissions factors API request started 
+2025-04-13T05:13:47.365Z [api] info: Footprint API request started 
+2025-04-13T05:13:47.366Z [Cache] info: Using local cache file... 
+2025-04-13T05:13:47.505Z [App] info: Starting AWS Estimations 
+2025-04-13T05:13:47.505Z [App] info: Finished AWS Estimations 
+2025-04-13T05:13:47.505Z [App] info: Starting GCP Estimations 
+2025-04-13T05:13:48.512Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:13:49.021Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:13:49.021Z [App] info: Finished GCP Estimations 
+2025-04-13T05:13:49.054Z [api] info: Footprint API request started 
+2025-04-13T05:13:49.055Z [Cache] info: Using local cache file... 
+2025-04-13T05:13:49.153Z [App] info: Starting AWS Estimations 
+2025-04-13T05:13:49.153Z [App] info: Finished AWS Estimations 
+2025-04-13T05:13:49.153Z [App] info: Starting GCP Estimations 
+2025-04-13T05:13:49.941Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:13:50.351Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:13:50.351Z [App] info: Finished GCP Estimations 
+2025-04-13T05:13:51.127Z [api] info: Regions emissions factors API request started 
+2025-04-13T05:14:34.999Z [api] info: Footprint API request started 
+2025-04-13T05:14:35.000Z [Cache] info: Using local cache file... 
+2025-04-13T05:14:35.115Z [App] info: Starting AWS Estimations 
+2025-04-13T05:14:35.115Z [App] info: Finished AWS Estimations 
+2025-04-13T05:14:35.115Z [App] info: Starting GCP Estimations 
+2025-04-13T05:14:36.024Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:14:36.440Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:14:36.441Z [App] info: Finished GCP Estimations 
+2025-04-13T05:14:36.533Z [api] info: Footprint API request started 
+2025-04-13T05:14:36.534Z [Cache] info: Using local cache file... 
+2025-04-13T05:14:36.635Z [App] info: Starting AWS Estimations 
+2025-04-13T05:14:36.635Z [App] info: Finished AWS Estimations 
+2025-04-13T05:14:36.635Z [App] info: Starting GCP Estimations 
+2025-04-13T05:14:37.354Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:14:37.771Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:14:37.771Z [App] info: Finished GCP Estimations 
+2025-04-13T05:14:38.331Z [api] info: Regions emissions factors API request started 
+2025-04-13T05:21:03.082Z [Server] info: Cloud Carbon Footprint Server shutting down... 
+2025-04-13T05:21:29.067Z [Server] info: Cloud Carbon Footprint Server listening at http://localhost:4000 
+2025-04-13T05:21:29.074Z [server] info: Documentation available at http://localhost:4000/docs 
+2025-04-13T05:22:03.995Z [Server] info: Cloud Carbon Footprint Server shutting down... 
+2025-04-13T05:22:30.289Z [Server] info: Cloud Carbon Footprint Server listening at http://localhost:4000 
+2025-04-13T05:22:30.296Z [server] info: Documentation available at http://localhost:4000/docs 
+2025-04-13T05:22:46.876Z [Server] info: Cloud Carbon Footprint Server shutting down... 
+2025-04-13T05:23:25.952Z [Server] info: Cloud Carbon Footprint Server listening at http://localhost:4000 
+2025-04-13T05:23:25.960Z [server] info: Documentation available at http://localhost:4000/docs 
+2025-04-13T05:24:38.870Z [Server] info: Cloud Carbon Footprint Server shutting down... 
+2025-04-13T05:27:21.422Z [Server] info: Cloud Carbon Footprint Server listening at http://localhost:4000 
+2025-04-13T05:27:21.427Z [server] info: Documentation available at http://localhost:4000/docs 
+2025-04-13T05:27:36.522Z [api] info: Footprint API request started 
+2025-04-13T05:27:36.529Z [Cache] info: Using local cache file... 
+2025-04-13T05:27:36.685Z [App] info: Starting AWS Estimations 
+2025-04-13T05:27:36.686Z [App] info: Finished AWS Estimations 
+2025-04-13T05:27:36.686Z [App] info: Starting GCP Estimations 
+2025-04-13T05:27:37.878Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:27:38.350Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:27:38.351Z [App] info: Finished GCP Estimations 
+2025-04-13T05:27:38.697Z [api] info: Footprint API request started 
+2025-04-13T05:27:38.698Z [Cache] info: Using local cache file... 
+2025-04-13T05:27:38.833Z [App] info: Starting AWS Estimations 
+2025-04-13T05:27:38.833Z [App] info: Finished AWS Estimations 
+2025-04-13T05:27:38.834Z [App] info: Starting GCP Estimations 
+2025-04-13T05:27:39.532Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:27:39.944Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:27:39.945Z [App] info: Finished GCP Estimations 
+2025-04-13T05:27:40.322Z [api] info: Regions emissions factors API request started 
+2025-04-13T05:27:47.901Z [Server] info: Cloud Carbon Footprint Server shutting down... 
+2025-04-13T05:28:30.807Z [Server] info: Cloud Carbon Footprint Server listening at http://localhost:4000 
+2025-04-13T05:28:30.827Z [server] info: Documentation available at http://localhost:4000/docs 
+2025-04-13T05:28:31.992Z [api] info: Regions emissions factors API request started 
+2025-04-13T05:28:41.823Z [api] info: Footprint API request started 
+2025-04-13T05:28:41.831Z [Cache] info: Using local cache file... 
+2025-04-13T05:28:41.980Z [App] info: Starting AWS Estimations 
+2025-04-13T05:28:41.980Z [App] info: Finished AWS Estimations 
+2025-04-13T05:28:41.981Z [App] info: Starting GCP Estimations 
+2025-04-13T05:28:43.044Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:28:43.460Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:28:43.461Z [App] info: Finished GCP Estimations 
+2025-04-13T05:28:43.489Z [api] info: Footprint API request started 
+2025-04-13T05:28:43.490Z [Cache] info: Using local cache file... 
+2025-04-13T05:28:43.619Z [App] info: Starting AWS Estimations 
+2025-04-13T05:28:43.620Z [App] info: Finished AWS Estimations 
+2025-04-13T05:28:43.620Z [App] info: Starting GCP Estimations 
+2025-04-13T05:28:44.312Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:28:44.698Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:28:44.698Z [App] info: Finished GCP Estimations 
+2025-04-13T05:28:45.489Z [api] info: Regions emissions factors API request started 
+2025-04-13T05:29:24.405Z [api] info: Footprint API request started 
+2025-04-13T05:29:24.407Z [Cache] info: Using local cache file... 
+2025-04-13T05:29:24.538Z [App] info: Starting AWS Estimations 
+2025-04-13T05:29:24.538Z [App] info: Finished AWS Estimations 
+2025-04-13T05:29:24.538Z [App] info: Starting GCP Estimations 
+2025-04-13T05:29:25.429Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:29:25.833Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:29:25.833Z [App] info: Finished GCP Estimations 
+2025-04-13T05:29:25.915Z [api] info: Footprint API request started 
+2025-04-13T05:29:25.915Z [Cache] info: Using local cache file... 
+2025-04-13T05:29:26.011Z [App] info: Starting AWS Estimations 
+2025-04-13T05:29:26.012Z [App] info: Finished AWS Estimations 
+2025-04-13T05:29:26.012Z [App] info: Starting GCP Estimations 
+2025-04-13T05:29:26.716Z [BillingExportTable] info: Getting Big Query Results 
+2025-04-13T05:29:27.115Z [BillingExportTable] info: Mapping over Usage Rows 
+2025-04-13T05:29:27.115Z [App] info: Finished GCP Estimations 
+2025-04-13T05:29:27.456Z [api] info: Regions emissions factors API request started 
+2025-04-13T05:29:29.002Z [api] info: Recommendations API request started 
+2025-04-13T05:29:42.519Z [api] info: Regions emissions factors API request started 
+2025-04-13T05:34:53.194Z [Server] info: Cloud Carbon Footprint Server shutting down... 
